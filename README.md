@@ -6,14 +6,14 @@ I build Android apps that solve problems I actually have, then maintain them in 
 
 I develop and maintain them from my Samsung Galaxy A17. Using Claude Code and ChatGPT, I direct AI-assisted development from problem definition through implementation, testing, debugging and release. I check the results through daily use and real-device testing, and I decide what ships. The AI involvement is visible in every repository's history.
 
-I am also the writer behind **Golden Gems**, a publishing brand covering investigative stories, cultural history, biography and technology, along with YouTube and podcast work.
+I am also the writer behind **[Golden Gems](https://medium.com/@dathaze20)** on Medium, a publishing brand covering investigative stories, cultural history, biography and technology, along with YouTube and podcast work.
 
 ---
 
 ## Featured projects
 
 ### [My Music](https://github.com/Dathaze20/Music-Player-Tagger)
-A local-first Android music player that repairs its own library. It fills missing artist, album, year and genre from MusicBrainz and optional AI, writes the tags back into the files, and plays everything with lyrics, playlists and background playback. Built for my own collection of more than 15,000 songs and used on it every day.
+A local-first Android music player that helps keep a messy library in order. It uses MusicBrainz and optional Gemini to help identify and correct missing artist, album, year and genre, writes the corrected tags back into the files, and plays everything with lyrics, playlists and background playback. Built for my own collection of more than 15,000 songs and used on it every day.
 
 [Download](https://github.com/Dathaze20/Music-Player-Tagger/releases/latest) · [Case study](https://github.com/Dathaze20/Music-Player-Tagger/blob/main/CASE_STUDY.md)
 
@@ -23,7 +23,7 @@ Turns an Android phone into a real Bluetooth HID game controller. The TV or comp
 [Download](https://github.com/Dathaze20/PocketPad/releases/latest) · [Case study](https://github.com/Dathaze20/PocketPad/blob/main/CASE_STUDY.md)
 
 ### [Page Wallpaper](https://github.com/Dathaze20/Android-home-screen-widget)
-A different photo, GIF or video behind each home screen page, including on Samsung One UI, which normally makes that impossible. Includes verified ZIP backups and privately signed releases, and it is maintained against bug reports from users on phones I don't own.
+A different photo, GIF or video behind each home screen page, including on Samsung One UI, which normally makes that impossible. Includes verified ZIP backups and privately signed releases, and it has been maintained in response to a documented bug report from a Sony Xperia user, on a phone I don't own.
 
 [Download](https://github.com/Dathaze20/Android-home-screen-widget/releases/latest) · [Case study](https://github.com/Dathaze20/Android-home-screen-widget/blob/main/CASE_STUDY.md)
 
